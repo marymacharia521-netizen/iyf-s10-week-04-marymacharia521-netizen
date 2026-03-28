@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Mary Macharia
 - **GitHub:** [marymacharia521-netizen]
-- **Date:** March 28, 2026
+- **Date:** March 20, 2026
 
 ## Project Description
 This project demonstrates JavaScript fundamentals including variables, functions, control flow, arrays, and objects. It includes a calculator and a student grade tracker.
